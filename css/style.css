@@ -1,0 +1,22 @@
+.logo{
+    height: 40px;
+    margin-left: 25px;
+}
+.container{
+    margin-top: 60px;
+}
+.btn-modify{
+    list-style: none;
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+}
+.btn-modify:hover{
+    color: blue;
+}
+.form{
+    margin-top: 60px;
+}
+.btn{
+    margin-top: 15px;
+}
